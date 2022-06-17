@@ -7,10 +7,12 @@ Layout CSS baseado na calculadora do meu Zenphone
 
 Comparando: 
 
+Calculadora Js:
+
+![alt image](./calculator-js.png)
+
 Calculadora Zenpohone:
 
 ![alt image](./calculator_zenphone.png)
 
-Calculadora Js:
 
-![alt image](./calculator-js.png)
